@@ -1,6 +1,6 @@
 #!/bin/bash
 
-/opt/scylladb/scripts/scylla_prepare
+/usr/lib/scylla/scylla_prepare
 
 . /etc/sysconfig/scylla-server
 
